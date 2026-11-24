@@ -1,0 +1,11 @@
+.env
+.env.local
+.env.*.local
+**/.env
+**/.env.local
+**/.env.*.local
+!.env.example
+!**/.env.example
+__pycache__/
+*.py[cod]
+storage/
